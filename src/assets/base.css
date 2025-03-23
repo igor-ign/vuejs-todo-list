@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 :root {
-  --primary: #292828;
+  --primary: #0f0e0e;
+  --primary-light: #1e1c1c;
   --secondary: #ffffff;
-  --tertiary: #252323;
+  --tertiary: #302e2e;
   --quaternary: #3ede9e;
-  --quaternary-hover: #34b581;
+  --quaternary-hover: #35cd90;
+  --error: #cf6679;
 }
